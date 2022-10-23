@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster&display=swap');
+/* font-family: 'Abril Fatface', cursive;
+font-family: 'Lobster', cursive; */
+
+main{
+    background-image: url(./images/piano.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Abril Fatface', cursive;
+}
+main h1{
+    font-size: 3em;
+    color: rgba(82, 139, 17, );
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(10, 55, 94);
+}
+.chanson{
+    width: 100vw;
+    background: black;
+}
